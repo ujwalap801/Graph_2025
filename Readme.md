@@ -4,6 +4,8 @@
 ## [Detect_Cycle_Undirected_Connected_Graph](https://namastedev.com/practice/detect-cycle-in-an-undirected-connected-graph-dfs)
 
 
+## [Krushkals_Path](https://namastedev.com/practice/kruskals-mst-algorithm)
+
 ## [DFS_Clone](https://leetcode.com/problems/clone-graph/)
 
 ## [Find_Path_Exists](https://leetcode.com/problems/find-if-path-exists-in-graph/)
@@ -15,3 +17,4 @@
 ## [Shortest_Distance_Source](https://namastedev.com/practice/shortest-distance-from-source-bfs)
 
 ## [Topological_Sort](http://namastedev.com/practice/topological-sort-dfs)
+
